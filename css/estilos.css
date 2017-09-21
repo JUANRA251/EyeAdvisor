@@ -1,0 +1,12 @@
+#pregunta {
+    background-image:url(images/home.jpeg);
+    background-size:cover;
+    height: 200px;
+    margin: 10px 0px;
+}
+    
+#blog {
+    background-color: cornflowerblue;
+}
+
+
